@@ -1,4 +1,4 @@
-# Milestone IV Project
+# Milestone Project
 
 ## Overview
 
